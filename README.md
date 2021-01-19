@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Osama Magdy
 #### I am Software Engineering Student at Cairo University
-![I am Software Engineering Student at Cairo University](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)
+![I am Software Engineering Student at Cairo University](https://github.com/osamamagdy/osamamagdy/blob/main/Welcome.gif)
 
 
 # Skills
