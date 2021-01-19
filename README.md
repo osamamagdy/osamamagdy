@@ -4,7 +4,19 @@
 
 
 # Skills
-JS / HTML / CSS / python / flask / SQL / C# / .NET / C++ / C / Assembly x86 / verilog / git
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/html.png' alt='github' height='40'>] 
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/css.png' alt='github' height='40'>] 
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/javascript.png' alt='github' height='40'>] 
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/python.png' alt='github' height='40'>] 
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/flask.png' alt='github' height='40'>] 
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/SQL.png' alt='github' height='40'>]  
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/C#.png' alt='github' height='40'>]  
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/.Net.png' alt='github' height='40'>]  
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/cpp.png' alt='github' height='40'>]  
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/c.png' alt='github' height='40'>]   
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/Assembly x86.png' alt='github' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/git.png' alt='github' height='40'>] 
+HTML / CSS / python / flask / SQL / C# / .NET / C++ / C / Assembly x86 / verilog / git
 
 - 💬 Ask me about anything and I will be happy to help 
 
