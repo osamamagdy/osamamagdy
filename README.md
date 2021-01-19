@@ -9,7 +9,7 @@
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/javascript.png' height='40'>] 
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/python.png' height='40'>] 
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/SQL .png' height='40'>]
-[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/C# .png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/csharp.png' height='40'>]
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/Net.png' height='40'>]
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/cpp.png' height='40'>]
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/c.png' height='40'>]
