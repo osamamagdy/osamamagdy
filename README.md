@@ -14,5 +14,5 @@ Skills: JS / HTML / CSS / python / flask / SQL / C# / .NET / C++ / C / Assembly 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/osamamagdy/count.svg" />
 </p>
