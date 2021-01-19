@@ -10,8 +10,9 @@ Skills: JS / HTML / CSS / python / flask / SQL / C# / .NET / C++ / C / Assembly 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/osamamagdy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/osama-m-8a0b0b137/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/osamamagdy174?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Ossama_Magdy)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamamagdy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamamagdy)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=osamamagdy&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=osamamagdy&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/osamamagdy)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
