@@ -6,11 +6,10 @@
 # About me
 
 - <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUFE.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-
-- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUT.png" width="25" draggable="false">Embedded Software Enginner<a href="https://www.facebook.com/ShellEcoMarathonCUT"> @Cairo University Racing Team </a> , a racing team focuses on making Vehicles for shell-eco-marathon 
-
-- 🔭 I’m passionatae about embedded systems, back-end development, and problem solving
-- 🌱 I’m currently learning building web applications with javascript
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUFE.png" width="25" draggable="false"> DevOps Intern <a href="https://ai-proctor.com/">@AI Proctor</a>
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUT.png" width="25" draggable="false">Former Embedded Software Enginner<a href="https://www.facebook.com/ShellEcoMarathonCUT"> @Cairo University Racing Team </a> , a racing team focuses on making Vehicles for shell-eco-marathon 
+- 🔭 I’m learning about cloud computing, software engineering, and problem solving
+- 🌱 DevOps enthusiast
 - 💬 Ask me about anything and I will be happy to help 
 
 
@@ -24,6 +23,13 @@
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/html.png' height='40'>]
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/css.png' height='40'>] 
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/javascript.png' height='40'>] 
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/docker.png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/k8s.png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/jenkins.png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/aws.png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/GCP.png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/DO.png' height='40'>]
+[<img src='https://github.com/osamamagdy/osamamagdy/blob/main/bash.png' height='40'>]
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/nodejs.png' height='40'>] 
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/python.png' height='40'>] 
 [<img src='https://github.com/osamamagdy/osamamagdy/blob/main/SQL .png' height='40'>]
