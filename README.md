@@ -6,7 +6,8 @@
 # About me
 
 - <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUFE.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/ai-proctor.png" width="25" draggable="false"> DevOps Intern <a href="https://ai-proctor.com/">@AI Proctor</a>
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/tactful-ai.png" width="25" draggable="false"> DevOps Intern <a href="https://tactful.ai/">@Tactful AI</a>
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/ai-proctor.png" width="25" draggable="false">Former DevOps Intern <a href="https://ai-proctor.com/">@AI Proctor</a>
 - <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUT.png" width="25" draggable="false">Former Embedded Software Enginner<a href="https://www.facebook.com/ShellEcoMarathonCUT"> @Cairo University Racing Team </a> , a racing team focuses on making Vehicles for shell-eco-marathon 
 - 🔭 I’m learning about cloud computing, software engineering, and problem solving
 - 🌱 DevOps enthusiast
