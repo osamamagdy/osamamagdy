@@ -1,17 +1,16 @@
 ## Hi there 👋, my name is Osama Magdy
-#### I am Software Engineering Student at Cairo University
-![I am Software Engineering Student at Cairo University](https://github.com/osamamagdy/osamamagdy/blob/main/Welcome.gif)
-
+#### I am a Senior DevOps Engineer looking for more challenges
 
 # About me
 
-- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUFE.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/tactful-ai.png" width="25" draggable="false"> DevOps Engineer <a href="https://tactful.ai/">@Tactful AI</a>
-- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/jx.png" width="25" draggable="false">Open Source contributor with<a href="https://jenkins-x.io/"> Jenkins X </a> 
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUFE.png" width="25" draggable="false"> Computer Engineering 2023 Graduate from <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/VOIS.png" width="25" draggable="false">Senior DevOps Engineer <a href="https://www.vodafone.com/careers/professional-career-areas/shared-services">@VOIS</a>
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/tactful-ai.png" width="25" draggable="false">Former DevOps Engineer <a href="https://tactful.ai/">@Tactful AI</a>
 - <img src="https://github.com/osamamagdy/osamamagdy/blob/main/instabug.jpg" width="25" draggable="false"> Former DevOps Engineering Intern <a href="https://instabug.com/">@Instabug</a>
 - <img src="https://github.com/osamamagdy/osamamagdy/blob/main/ai-proctor.png" width="25" draggable="false">Former DevOps Intern <a href="https://ai-proctor.com/">@AI Proctor</a>
-- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/CUT.png" width="25" draggable="false">Former Embedded Software Enginner<a href="https://www.facebook.com/ShellEcoMarathonCUT"> @Cairo University Racing Team </a> , a racing team focuses on making Vehicles for shell-eco-marathon 
-- 🔭 I’m learning about cloud computing, software engineering, and problem solving
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/owasp.png" width="25" draggable="false">Open Source contributor with <a href="https://owasp.org/www-project-wrongsecrets/">OWASP Foundation(wrongsecrets project)</a>
+- <img src="https://github.com/osamamagdy/osamamagdy/blob/main/jx.png" width="25" draggable="false">Open Source contributor with<a href="https://jenkins-x.io/"> Jenkins X </a>  
+- 🔭 I’m learning about cloud computing, software engineering, and problem-solving
 - 🌱 DevOps enthusiast
 - 💬 Ask me about anything and I will be happy to help 
 
